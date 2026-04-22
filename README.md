@@ -3,3 +3,6 @@ Used Vertex AI (if not use gemini API Key)
 
 Links:
 https://docs.cloud.google.com/vertex-ai/generative-ai/docs/embeddings/get-multimodal-embeddings
+
+
+
