@@ -86,7 +86,7 @@ st.title("📄 PDF to Vertex AI Embeddings (Text + Images)")
 uploaded_file = st.file_uploader("Upload a PDF file", type=["pdf"])
 
 if uploaded_file:
-    st.success("✅ File uploaded!")
+    st.success("✅File uploaded!")
 
     with st.spinner("Processing PDF and generating embeddings..."):
         pdf_bytes = uploaded_file.read()
